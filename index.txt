@@ -1,0 +1,150 @@
+<!-- =============================================================== -->
+    <!-- ==cata sec -->
+    <section class="w-full px-25 mt-[55px]">
+      <div class="w-full flex justify-between items-end">
+        <div class="flex flex-col items-starts">
+          <div class="flex gap-1.25 items-centers">
+            <img src="./img/Line 1.svg" alt="" />
+            <p class="text-[12px] font-normal text-[#0F6E56]">
+              SOMETHING FOR EVERONE
+            </p>
+            <p class="text-[34px] font-bold text-[#1A1523]">Browse by vibe</p>
+          </div>
+
+          <div class="flex gap-1.25 items-center">
+            <p class="text-[13px] text-[#0F6E56] font-bold">All Categories</p>
+            <img src="./img/arrow-right.svg" alt="" />
+          </div>
+        </div>
+      </div>
+      <!-- ========================= -->
+      <div class="w-full grid grid-cols-4 gap-2.5">
+        <div class="relative">
+          <img
+            src="./img/concert.jpg"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Concerts</p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">42 EVENTS</p>
+          </div>
+        </div>
+        <!-- ==1== -->
+
+        <div class="relative">
+          <img
+            src="./img/parties.jpg"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Parties</p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">31 EVENTS</p>
+          </div>
+        </div>
+
+        <!-- ==2== -->
+
+        <div class="relative">
+          <img
+            src="./img/confrences.png"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Confrences</p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">18 EVENTS</p>
+          </div>
+        </div>
+
+        <!-- ==4== -->
+        <div class="relative">
+          <img
+            src="./img/comedy.jpg"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Comedy/p></p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">12 EVENTS</p>
+          </div>
+        </div>
+
+        <!-- ==5== -->
+        <div class="relative">
+          <img
+            src="./img/sports.jpg"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Sports</p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">9 EVENTS</p>
+          </div>
+        </div>
+
+        <!-- ==6== -->
+        <div class="relative">
+          <img
+            src="./img/arts.jpg"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Art & Theatre</p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">16 EVENTS</p>
+          </div>
+        </div>
+
+        <!-- ==7== -->
+
+        <div class="relative">
+          <img
+            src="./img/foods.jpg"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Food & Drink</p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">11 EVENTS</p>
+          </div>
+        </div>
+        <!-- ==8== -->
+        <div class="relative">
+          <img
+            src="./img/last one shaaa.jpg"
+            alt=""
+            class="w-[300px] h-[169px] rounded-[10px]"
+          />
+
+          <div
+            class="text-white flex flex-col items-start gap-1.5 absolute bottom-5 left-5"
+          >
+            <p class="text-[20px] text-[#E4F1EB] font-bold">Tech</p>
+            <p class="text-[13px] text-[#E4F1EB] font-normal">14 EVENTS</p>
+          </div>
+        </div>
+      </div>
+    </section>
